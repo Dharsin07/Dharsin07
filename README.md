@@ -1,42 +1,31 @@
-I'm Dharsin S
+# Dharsin S
 
-B.Tech – Artificial Intelligence and Data Science
-Full-Stack Web Developer | DSA and Problem Solving
+B.Tech – Artificial Intelligence and Data Science  
+Full-Stack Web Developer | Problem Solving
 
-I am an undergraduate student focused on building scalable web applications, improving algorithmic problem-solving skills, and learning AI and data-driven technologies.
+This GitHub profile contains my academic projects, full-stack web applications, and coding practice work. I focus on writing clean, scalable code and continuously improving my skills in web development, data structures, and AI-related technologies.
 
-Skills
-Programming Languages
-C, C++, Python, Java, JavaScript
+## Skills
 
-Frontend
-HTML, CSS, Bootstrap, React
+- Programming Languages: C, C++, Python, Java, JavaScript
+- Frontend: HTML, CSS, Bootstrap, React
+- Backend: Node.js, Express.js
+- Databases: MySQL, PostgreSQL, Firebase, Supabase
+- Data Science: Pandas, NumPy, Matplotlib
 
-Backend and Databases
-Node.js, Express.js, MySQL, PostgreSQL, Firebase, Supabase
+## Projects
 
-Data Science
-Pandas, NumPy, Matplotlib
+- Full-Stack E-Commerce Web Application with secure authentication and admin dashboard
+- CODOLIO coding performance and analytics dashboard
+- Data Structures and Algorithms based problem-solving projects
 
-Projects
+## Education
 
-Full-Stack E-Commerce Web Application
-Secure authentication, admin dashboard, responsive UI, and scalable architecture
+B.Tech – Artificial Intelligence and Data Science  
+KIT – Kalaignarkarunanidhi Institute of Technology
 
-CODOLIO Coding Dashboard
-Performance analytics across LeetCode, CodeChef, GeeksforGeeks, HackerRank, Codeforces, and GitHub
+## Contact
 
-Interests
-
-Data Structures and Algorithms
-Full-Stack Development
-Machine Learning Basics
-Clean UI and UX Design
-
-Contact
-
-GitHub: https://github.com/Dharsin07
-
-LinkedIn: https://www.linkedin.com/in/dharsin-s-462638343/
-
+GitHub: https://github.com/Dharsin07  
+LinkedIn: https://www.linkedin.com/in/dharsin-s-462638343/  
 Email: kit27.ad15@gmail.com
